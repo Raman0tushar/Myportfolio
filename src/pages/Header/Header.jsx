@@ -3,7 +3,7 @@ import {
   FaHome,
   FaLaptopCode,
   
-  FaBriefcase,
+
   FaGraduationCap,
   FaCode,
   FaEnvelope,
@@ -27,7 +27,7 @@ export default function Header() {
   }, []);
 
   const navLinks = [
-    { id: "home", icon: FaHome, text: "Home", path: "/" },
+    { id: "home", icon: FaHome, text: "Home", path: "/Myportfolio" },
     { id: "skills", icon: FaCode, text: "Skills", path: "/skills" },
   
     {

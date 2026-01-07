@@ -235,9 +235,8 @@ public class Profile {
 
                 {/* Contact Button */}
                 <a
-  href="/resume.pdf" 
-                    // ← Update with your actual resume path
- // download="Tushar-Raman-Resume.pdf"
+href="/Myresume.pdf"
+  //download="Myresume.pdf"
   target="_blank"
   rel="noopener noreferrer"
   className="group relative inline-flex items-center gap-3 rounded-xl bg-gradient-to-r from-gray-800 to-gray-700 p-0.5 transition-all duration-300 hover:scale-105 hover:shadow-[0_0_2rem_-0.5rem_#60a5fa]"
