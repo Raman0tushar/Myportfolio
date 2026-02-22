@@ -7,7 +7,7 @@
 
 Welcome to the repository of my personal portfolio. This project serves as a digital resume and a showcase of my journey as a Software Developer.
 
-🌐 **[Live Demo](https://myportfolio-psi-ashen.vercel.app/)** | **[GitHub Pages](https://Raman0tushar.github.io/Myportfolio/)**
+🌐 **[GitHub Pages](https://Raman0tushar.github.io/Myportfolio/)**
 
 ---
 
